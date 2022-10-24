@@ -1,3 +1,3 @@
-import bootstrapDis from "./bootstrap.min.css" assert { type: "css" };
+import bootstrapDis from "./bootstrap.min.css";
 
 export default bootstrapDis;
