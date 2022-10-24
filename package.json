@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-dis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdElRahmanMostafa1/bootstrap-dis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdElRahmanMostafa1/bootstrap-dis/issues"
+  },
+  "homepage": "https://github.com/AbdElRahmanMostafa1/bootstrap-dis#readme"
+}
